@@ -21,14 +21,19 @@ body {
 #button:hover {
     cursor: pointer;
 }
-.img{
-    width:150px;
+
+.img {
+    width: 150px;
     height: 150px;
     border-radius: 12px;
     margin: 7px;
-    solid {border-style: solid;}
+
+    solid {
+        border-style: solid;
+    }
+
     border-color: black;
-    
+
 }
 
 .img:hover {
@@ -46,5 +51,19 @@ body {
     width: 175px;
     margin-bottom: 50px;
     border-radius: 10%;
-    margin-top: 90px;s
+    margin-top: 90px;
+}
+
+#animal {
+    font-family: 'Pacifico', cursive;
+}
+
+.nhg {
+    font-family: 'Abril Fatface', cursive;
+    margin-right: 100%px;
+}
+.about{
+    border: 5px solid black;
+    width: 50%;
+    
 }
